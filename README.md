@@ -1,8 +1,10 @@
 # TP-2
- 
-[Page GitMoji](./GitMoji.md)
 
-[Page GitFlow](./gitflow.md)
+## Sommaire : 
+ 
+- [GitMoji](./GitMoji.md)
+
+- [GitFlow](./gitflow.md)
 
 ##  Comment nous avons fonctionner
 
