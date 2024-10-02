@@ -35,7 +35,7 @@ git checkout playlist
 
 ```bash
 git add .```
-```git commit -m "Added playlist creation functionality"
+git commit -m "Added playlist creation functionality"
 ```
 
 4. Testez et révisez : une fois la fonctionnalité terminée, testez-la minutieusement et faites-la examiner par d'autres membres de l'équipe.
@@ -68,7 +68,7 @@ git checkout bugfix-1
 
 ```bash
 git add .```
-```git commit -m "Fixed bug causing application crash"
+git commit -m "Fixed bug causing application crash"
 ```
 
 4. Testez et révisez : une fois le correctif terminé, testez-le minutieusement et faites-le réviser par d'autres membres de l'équipe.
