@@ -6,7 +6,7 @@
 
 - [GitFlow](./gitflow.md)
 
-##  Comment nous avons fonctionner
+##  Comment nous avons fonctionner : 
 
 Dans un premier temps, nous avons utiliser GitMoji dans nos messages de commit afin d'uniformiser nos messages.
 
